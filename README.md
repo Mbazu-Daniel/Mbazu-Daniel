@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Data Analysis, Power BI, Django, Solidity **
 
-- 🔭 "I'm looking for a Data Analyst role in Finance, Business or Logistics" 
+- 🔭 "I'm looking for a Data Analyst role in Finance, Business or Logistics. Check out my [portfolio](https://mbazudaniel.onrender.com/)
 
 - 📫 How to reach me **Mbazudaniel97@gmail.com**
 
