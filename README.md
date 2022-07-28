@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Blockchain Projects**
 
-- 💬 Ask me about **Data Analysis, Django, Solidity**
+- 💬 Ask me about **Data Analysis, Power BI, Django, Solidity**
 
 - 📫 How to reach me **Mbazudaniel97@gmail.com**
 
