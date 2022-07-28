@@ -5,9 +5,11 @@
 
 - 🌱 I’m currently learning **Blockchain & Backend Development**
 
-- 👯 I’m looking to collaborate on **Blockchain Projects**
+- 👯 I’m looking to collaborate on **Blockchain, Web Development and Data Analysis Projects**
 
 - 💬 Ask me about **Data Analysis, Power BI, Django, Solidity**
+
+- 🔭 "I'm looking for a Data Analyst role in Finance, Business or Logistics"
 
 - 📫 How to reach me **Mbazudaniel97@gmail.com**
 
