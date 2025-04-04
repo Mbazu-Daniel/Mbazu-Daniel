@@ -3,14 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mbazu-daniel&label=Profile%20views&color=0e75b6&style=flat" alt="mbazu-daniel" /> </p>
 
-- 🌱 I’m currently learning **Blockchain & Backend Development**
-
-- 👯 I’m looking to collaborate on **Blockchain, Web Development and Data Analysis Projects**
-
-- 💬 Ask me about **Data Analysis, Power BI, Django, Solidity **
-
-- 🔭 "I'm looking for a Data Analyst role in Finance, Business or Logistics. Check out my [portfolio](https://mbazudaniel.onrender.com/)
-
 - 📫 How to reach me **Mbazudaniel97@gmail.com**
 
 - ⚡ Fun fact **I give my best to people as long as they ask**
