@@ -1,24 +1,58 @@
-<h1 align="center">Hi 👋, I'm Daniel Mbazu </h1>
-<h3 align="center">A passionate Tech Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mbazu-daniel&label=Profile%20views&color=0e75b6&style=flat" alt="mbazu-daniel" /> </p>
+# Daniel Mbazu
 
-- 📫 How to reach me **Mbazudaniel97@gmail.com**
+**Tech Enthusiast | Python Developer | Problem Solver**
 
-- ⚡ Fun fact **I give my best to people as long as they ask**
+> _"I give my best to people as long as they ask"_
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mr_micdaniel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mr_micdaniel" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mbazudaniel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mbazudaniel" height="30" width="40" /></a>
-<a href="https://instagram.com/mr_micdaniel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_micdaniel" height="30" width="40" /></a>
-</p>
+----------
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 👋 About Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mbazu-daniel&show_icons=true&locale=en&layout=compact" alt="mbazu-daniel" /></p>
+I'm Daniel Mbazu, a passionate tech enthusiast who believes in the power of clean code and meaningful solutions. My journey in software development is driven by curiosity and a genuine desire to help others succeed. Whether it's building backend systems, crafting web applications, or exploring new technologies, I approach every challenge with dedication and an eagerness to learn.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mbazu-daniel&show_icons=true&locale=en" alt="mbazu-daniel" /></p>
+I thrive in environments where collaboration meets innovation, and I'm always ready to dive deep into problems that matter. My philosophy is simple: when you ask for my help, you get my absolute best, no shortcuts, no half measures.
+
+----------
+
+## 🛠️ Tech Arsenal
+* **Languages:** TypeScript, JavaScript, Python, Solidity
+* **Frameworks:** Node.js, NestJS, Express.js, FastAPI
+* **Databases:** PostgreSQL, MongoDB, MySQL
+* **Infrastructure:** Docker, AWS, Digital Ocean, Cloudflare, Coolify
+* **Web3:** Smart contract integration, Alchemy, ethers.js
+* **Data Analysis:** Power BI, Excel, Pandas, NumPy, data cleaning, exploratory analysis, insights generation
+
+----------
+## 🔧 Some Highlights
+
+-   🎮 **Built the backend system for a full game studio**, including deployment pipelines for Unity games and core backend logic powering real-time gameplay.
+    
+-   ⚡ **Designed the game session + score-formation engine for Unity games**, used across multiple titles to manage live sessions, scoring, and gameplay flow.
+
+----------
+
+## 🌟 Featured Project
+
+**[S3Bridge](https://www.npmjs.com/package/s3bridge)** –A unified SDK for managing files across AWS S3-compatible storage platforms.
+
+----------
+
+## 📫 Let's Connect
+
+-   **Email:** [Mbazudaniel97@gmail.com](mailto:Mbazudaniel97@gmail.com)
+-   **LinkedIn:** [mbazudaniel](https://linkedin.com/in/mbazudaniel)
+-   **Twitter:** [@mr_micdaniel](https://twitter.com/mr_micdaniel)
+-   **Instagram:** [@mr_micdaniel](https://instagram.com/mr_micdaniel)
+
+----------
+
+_Open to collaborations, conversations, and building something amazing together._ ✨
+
+----------
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=mbazu-daniel&label=Profile%20views&color=0e75b6&style=flat)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mbazu-daniel&" alt="mbazu-daniel" /></p>
+</div>
